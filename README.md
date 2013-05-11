@@ -1,0 +1,1 @@
+This is where we plan on keeping all of the super cool information about how to get your development environment up and running in a New York City Department of Education public school. Basically, if your a developer and your cool (e.g. you're coming to the Hackathon), then this will be the place for important information—just not yet.
